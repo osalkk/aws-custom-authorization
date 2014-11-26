@@ -1,2 +1,0 @@
-./indeed_links.sh | xargs -n 1  w3m  -dump | grep -o Puppet | wc -l
-

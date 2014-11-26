@@ -1,0 +1,348 @@
+Backup software.
+Amanda 
+Bacula 
+Backupninja 
+Backuppc 
+Burp 
+Duplicity 
+Lsyncd 
+Rsnapshot 
+SafeKeep 
+TarSnap 
+UrBackup 
+DREBS 
+Cloning
+Cloning software.
+Clonezilla 
+Fog 
+Redo Backup 
+Cloud Computing
+AppScale 
+Archipel 
+CloudStack 
+Cobbler 
+Eucalyptus 
+Mesos 
+OpenNebula 
+OpenStack 
+The Foreman 
+Cloud Orchestration
+BOSH 
+Cloudify 
+Juju 
+MCollective 
+Overcast 
+Rundeck 
+Salt 
+Cloud Storage
+git
+ownCloud 
+Seafile 
+SparkleShare 
+Swift 
+Syncthing 
+Code Review
+Web Based collaborative code review system.
+Gerrit 
+Review Board 
+Collaborative Software
+Collaborative software or groupware suites.
+Citadel/UX 
+EGroupware 
+Horde Groupware 
+Kolab 
+SOGo 
+Zimbra 
+Configuration Management Database
+Configuration management database (CMDB) software.
+i
+iTop 
+Ralph 
+Clusto 
+Configuration Management
+Configuration management tools.
+Ansible 
+CFEngine 
+Chef 
+Fabric 
+Pallet 
+Puppet 
+Salt 
+Slaughter 
+Continuous Integration & Continuous Deployment
+Continuous integration/deployment software.
+Buildbot 
+Drone 
+GitLab CI 
+Go 
+Jenkins 
+Vlad the Deployer 
+Distributed Filesystems
+Network distributed filesystems.
+Ceph 
+DRBD 
+LeoFS 
+GlusterFS 
+HDFS 
+Lustre 
+MooseFS 
+MogileFS 
+OpenAFS 
+TahoeLAFS 
+XtreemFS 
+DNS
+DNS servers.
+Bind 
+djbdns 
+Designate 
+dnsmasq 
+Knot 
+NSD 
+PowerDNS 
+Unbound 
+Yadifa 
+Hosting Control Panels
+Web hosting control panels
+Ajenti 
+Feathur 
+ISPConfig 
+VestaCP 
+Virtualmin 
+ZPanel 
+IMAP/POP3
+IMAP/POP3 mail servers.
+Courier IMAP/POP3 
+Cyrus IMAP/POP3 
+Dovecot 
+Qpopper 
+IT Asset Management
+IT Assets Management software.
+GLPI 
+OCS Inventory NG 
+RackTables 
+Ralph 
+Snipe IT 
+LDAP
+LDAP servers.
+389 Directory Server 
+Apache Directory Server 
+Fusion Directory 
+OpenDJ 
+OpenDS 
+OpenLDAP 
+Log Management
+Log management tools: collect, parse, visualize ...
+Elasticsearch 
+Fluentd 
+Flume 
+Graylog2 
+Heka 
+Kibana 
+Logstash 
+Octopussy 
+Monitoring
+Monitoring software.
+Cacti 
+Cabot 
+check_mk 
+Dash 
+Icinga 
+LibreNMS 
+Monit 
+Munin 
+Naemon 
+Nagios 
+Observium 
+OMD 
+Opsview 
+Riemann 
+Sensu 
+Sentry 
+Shinken 
+Thruk 
+Xymon 
+Zabbix 
+Zenoss 
+Metric & Metric Collection
+Metric gathering and display software.
+Collectd 
+Collectl 
+Dashing 
+Diamond 
+Ganglia 
+Grafana 
+Graphite 
+InfluxDB 
+KairosDB 
+OpenTSDB 
+RRDtool 
+Statsd 
+Network Configuration Management
+Network configuration management tools.
+GestióIP 
+RANCID 
+rConfig 
+Newsletters
+Newsletter software.
+DadaMail 
+phpList 
+NoSQL
+NoSQL databases.
+Column
+Apache HBase 
+Cassandra 
+Hypertable 
+Document Store
+CouchDB 
+ElasticSearch 
+MongoDB 
+RavenDB 
+RethinkDB 
+Graph
+FlockDB 
+Neo4j 
+Key
+LevelDB 
+Redis 
+Riak 
+Comparison of NoSQL servers: http://kkovacs.eu/cassandra
+Packaging
+fpm 
+omnibus
+packman 
+tito 
+Queuing
+BeanstalkD 
+Gearman 
+NSQ 
+RabbitMQ 
+ZeroMQ 
+RDBMS
+Relational DBMS.
+Firebird 
+Galera 
+MariaDB 
+MySQL 
+Percona Server 
+PostgreSQL 
+PostgreSQL
+SQLite 
+Security
+Security tools.
+Denyhosts 
+Fail2Ban 
+SpamAssassin 
+Service Discovery
+Consul 
+Doozerd 
+ZooKeeper 
+SMTP
+SMTP servers.
+Exim 
+Haraka 
+MailCatcher 
+Maildrop 
+OpenSMTPD 
+Postfix 
+Qmail 
+Sendmail 
+Software Containers
+Operating system–level virtualization.
+Bitnami 
+Docker 
+OpenVZ 
+SSH
+SSH tools.
+autossh 
+Cluster SSH 
+DSH 
+Mosh 
+parallel
+SSH Power Tool 
+Statistics
+Analytics software.
+Analog 
+GoAccess 
+Piwik 
+Webalizer 
+Ticketing systems
+Web
+Bugzilla 
+Cerb 
+Flyspray 
+MantisBT 
+osTicket 
+Otrs 
+Request Tracker 
+TheBugGenie 
+Troubleshooting
+Troubleshooting Tools.
+mitmproxy 
+Sysdig 
+Wireshark 
+Project Management
+Web
+ChiliProject 
+GitBucket Clone of GitHub written in Scala; single jar install.
+GitLab 
+Gogs 
+OpenProject 
+Phabricator Written in PHP.
+Redmine 
+The Bug Genie 
+Trac 
+Version control
+Software versioning and revision control.
+Fossil 
+Git 
+GNU Bazaar 
+Mercurial 
+Subversion 
+Virtualization
+Virtualization software.
+Ganeti 
+KVM 
+oVirt 
+Packer 
+Vagrant 
+VirtualBox 
+Xen 
+VPN
+VPN software.
+OpenVPN 
+Pritunl 
+SoftEther 
+sshuttle 
+strongSwan 
+tinc 
+XMPP
+XMPP servers.
+ejabberd 
+Metronome IM 
+MongooseIM 
+Openfire 
+Prosody IM 
+Tigase 
+Webmails
+Webmail applications.
+Mailpile 
+Roundcube 
+Web
+Web servers.
+Apache 
+Cherokee 
+Lighttpd 
+Nginx 
+uWSGI 
+Web Performance
+HAProxy 
+Varnish 
+Wikis
+Wiki software.
+DokuWiki 
+Gollum 
+ikiwiki 
+Mediawiki 
+MoinMoin 
+Ōlelo Wiki 
+TiddlyWiki
